@@ -20,7 +20,7 @@ I have designed and developed application for companies like: Disney, Legendary 
 
 - 🔭 I’m currently working on my [YouTube channel](https://youtube.com/jairobjunior)
 - 🌱 I’m currently learning `Generative AI`
-- 💬 Ask me about `Data Structure & Algorithms`, `Bluetooth`, `Automation Testing`
+- 💬 Ask me about `Data Structures & Algorithms`, `Bluetooth`, `Automation Testing`
 - ⚡ Hobbies: `Kitesurfing`, `Snowboarding`, `Skateboarding`
 
 <!--
